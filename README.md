@@ -1,7 +1,9 @@
 Algo
 ====
 
-Technical interview coding questions collection.
+Technical interview coding questions collection. 
+
+This repo is not maintained and just for recording keeping.
 
 ## Reference
 
